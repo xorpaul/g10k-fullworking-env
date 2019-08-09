@@ -1,4 +1,4 @@
-mod 'puppetlabs/stdlib'
-mod 'puppet',
-  :git => 'https://github.com/theforeman/puppet-puppet.git',
-  :tag => '11.0.0'
+mod 'puppetlabs/ntp'
+mod 'stdlib',
+     :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git',
+     :commit => 'master'
