@@ -1,1 +1,1 @@
-mod 'puppetlabs/ntp'
+mod 'puppetlabs/ntp', '8.1.0'
